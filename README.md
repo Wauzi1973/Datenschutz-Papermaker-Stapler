@@ -15,7 +15,7 @@ Ich kann unsere Datenschutzbestimmungen von Zeit zu Zeit aktualisieren. Es wird 
 
 # Kontakt zu uns
 Sollten Sie irgendwelche Fragen zu unserem Datenschutz haben, können Sie via E-Mail Kontakt mit uns aufnehmen unter: renebergsch@gmail.com
-Stand: 01.03.2021
+Stand: 02.12.2021
 
 
 Mit der Installation und Nutzung der App erklären Sie sich ebenfalls mit den Datenschutzbestimmungen von Google Inc einverstanden. Bitte lesen Sie hierzu die Datenschutzerklärung von Google Inc: https://policies.google.com/privacy
