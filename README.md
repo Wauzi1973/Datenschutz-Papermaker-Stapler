@@ -5,7 +5,6 @@ Dezember 02, 2021
 Es werden keine Berechtigungen benötigt. Alle Berechnungen in der App "Papermaker Stapler" werden lokal auf dem jeweiligen Gerät durchgeführt und gespeichert. Und können daher auch ohne Internetverbindung verwendet werden.
 
 # Welche Informationen werden gesammelt und wie werden sie verwendet ?
-Persönliche Benutzerinformationen:
 Es werden von uns keine Daten gespeichert oder an Dritte weitergegeben.
  
  
@@ -15,6 +14,7 @@ Ich kann unsere Datenschutzbestimmungen von Zeit zu Zeit aktualisieren. Es wird 
 
 # Kontakt zu uns
 Sollten Sie irgendwelche Fragen zu unserem Datenschutz haben, können Sie via E-Mail Kontakt mit uns aufnehmen unter: renebergsch@gmail.com
+
 Stand: 02.12.2021
 
 
